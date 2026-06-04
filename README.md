@@ -18,5 +18,9 @@ to make much with 0.5 BPM.
 
 ## Metronome Sound
 
-Put in the file paths to any wav files you want to be the sound of the metronome, or leave it blank for a default sine wave
+Put in the file paths to any wav files you want to be the sound of the metronome, or leave it blank for a default triangle wave
 metronome sound.
+
+## Usage
+
+Run the script in your terminal followed by the options for the metronome. Run `python metronome.py -h` for help.
